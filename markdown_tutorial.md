@@ -121,7 +121,6 @@ Content Cell | Content Cell
 ## Работа с цитатами
 
 ## Работа с ссылками
-
 Это встроенная [ссылка с title элементом]
 (http://example.com/link "Я ссылка"). Это — [без title]
 (http://example.com/link).
