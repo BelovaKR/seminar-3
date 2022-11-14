@@ -119,7 +119,6 @@ Content Cell | Content Cell
 ```
 
 ## Работа с цитатами
-
 Цитаты оформляются как в емейлах, с помощью символа `>`.
 
 > This is a blockquote with two paragraphs. Lorem ipsum
