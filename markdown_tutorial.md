@@ -65,7 +65,7 @@ necessitatibus magni provident non saepe sequi?
 
 
 ## Работа с изображениями
-
+бла-бла
 
 ## Работа с таблицами
 
