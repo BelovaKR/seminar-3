@@ -67,6 +67,24 @@ necessitatibus magni provident non saepe sequi?
 ## Работа с изображениями
 бла-бла
 
+Чтобы добавить изображение в MarkDown, используйте следующую конструкцию:
+!["Альтернативныйтекст"](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/140-P1020281_-_Flickr_-_Laurie_Nature_Bee.jpg/1280px-140-P1020281_-_Flickr_-_Laurie_Nature_Bee.jpg)
+
+Картинка без `alt` текста
+![](//placehold.it/150x100)
+Картинка с альтом и тайтлом:
+![Alt text](//placehold.it/150x100 "Можно задать title")
+Запомнить просто: синтаксис как у ссылок, только перед
+открывающей квадратной скобкой ставится восклицательный
+знак.
+Картинки «сноски»:
+![Картинка][image1]
+![Картинка][image2]
+![Картинка][image3]
+[image1]: //placehold.it/250x100
+[image2]: //placehold.it/200x100
+[image3]: //placehold.it/150x100
+
 ## Работа с таблицами
 
 Для того, чтобы добавить таблицу в MarkDown, нужно будет пойти на некоторые ухищрения. 
